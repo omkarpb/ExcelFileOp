@@ -1,0 +1,5 @@
+c:\users\omkarbadve\documents\visual studio 2013\Projects\ExcelFileOperations\Nagarro.ExcelFileOp\bin\Debug\Nagarro.ExcelFileOp.dll
+c:\users\omkarbadve\documents\visual studio 2013\Projects\ExcelFileOperations\Nagarro.ExcelFileOp\bin\Debug\Nagarro.ExcelFileOp.pdb
+c:\users\omkarbadve\documents\visual studio 2013\Projects\ExcelFileOperations\Nagarro.ExcelFileOp\obj\Debug\Nagarro.ExcelFileOp.csproj.ResolveComReference.cache
+c:\users\omkarbadve\documents\visual studio 2013\Projects\ExcelFileOperations\Nagarro.ExcelFileOp\obj\Debug\Nagarro.ExcelFileOp.dll
+c:\users\omkarbadve\documents\visual studio 2013\Projects\ExcelFileOperations\Nagarro.ExcelFileOp\obj\Debug\Nagarro.ExcelFileOp.pdb
