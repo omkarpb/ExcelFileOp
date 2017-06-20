@@ -34,7 +34,7 @@ namespace Nagarro.ExcelFileOp
         }
 
         /// <summary>
-        /// Creates new excel file
+        /// Creates new excel file. This is sample comment
         /// </summary>
         /// <param name="FileFullPathName">Full path of the file plus file name with extension of .xls</param>
         public void CreateExcelFile()
